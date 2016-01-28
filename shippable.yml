@@ -61,7 +61,7 @@ integrations:
     
 
   hub:
-    - integrationName: "ship-docker"
+    - integrationName: "docker-vidyaghe"
       type: docker
       branches:
         only:
